@@ -11,7 +11,7 @@ cssclasses: hide-title
 
 Returns the file for the current view if it's a FileView.
 
-Otherwise, it will recent the most recently active file.
+Otherwise, it will reopen the most recently active file.
 
 **Signature:**
 
